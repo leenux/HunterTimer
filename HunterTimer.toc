@@ -1,0 +1,10 @@
+## Interface: 11200
+## Title: HunterTimer
+## Notes: Scripted hunter shot timing logger (SuperWoW)
+## Author: twow-diy
+## Version: 0.1.0
+HT_Json.lua
+HT_Session.lua
+HT_EventCore.lua
+HT_Protocol.lua
+HunterTimer.lua
